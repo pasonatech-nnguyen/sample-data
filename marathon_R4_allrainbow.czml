@@ -1,10 +1,9 @@
-[{"id: "document",
-  "name": "CZML Path",
+[{"id": "document",
   "version": "1.0",
   "clock": {
     "currentTime": "2022-12-04T01:40:00Z",
-    "multiplier": 1,
-  },
+    "multiplier": 1
+  }
 },{
                     "id":"Runner_1",
                 "availability":"2022-12-04T01:40:00Z/2022-12-04T06:00:00Z",
